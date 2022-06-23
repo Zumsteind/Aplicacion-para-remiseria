@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="remiseria_LasVegas_ULTVER" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/remiseria" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/remiseria" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="classconductor.h" />
+		<Unit filename="classfecha.h" />
+		<Unit filename="classseguros.h" />
+		<Unit filename="classtarifas.h" />
+		<Unit filename="classvehiculos.h" />
+		<Unit filename="classviajes.h" />
+		<Unit filename="funciones.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menuconductores.h" />
+		<Unit filename="menuseguros.h" />
+		<Unit filename="menutarifas.h" />
+		<Unit filename="menuvehiculos.h" />
+		<Unit filename="menuviajes.h" />
+		<Unit filename="prototipos.h" />
+		<Unit filename="rlutil.h" />
+		<Unit filename="textos_menues.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

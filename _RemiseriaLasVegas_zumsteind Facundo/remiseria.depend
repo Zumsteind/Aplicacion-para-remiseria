@@ -1,0 +1,476 @@
+# depslib dependency file v1.0
+1639613706 source:c:\users\nicole\desktop\tp_remiserialasvegas_facundozumsteind_nicoleligoule\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	"funciones.h"
+	"prototipos.h"
+	"classconductor.h"
+	"classvehiculos.h"
+	"classtarifas.h"
+	"classseguros.h"
+	"classviajes.h"
+	"classfecha.h"
+	"menuconductores.h"
+	"menuviajes.h"
+	"menuvehiculos.h"
+	"menutarifas.h"
+	"menuseguros.h"
+
+1638852802 c:\users\nicole\desktop\tp_remiserialasvegas_facundozumsteind_nicoleligoule\funciones.h
+	"prototipos.h"
+
+1639624177 c:\users\nicole\desktop\tp_remiserialasvegas_facundozumsteind_nicoleligoule\prototipos.h
+
+1639619340 c:\users\nicole\desktop\tp_remiserialasvegas_facundozumsteind_nicoleligoule\classconductor.h
+	"classfecha.h"
+	"prototipos.h"
+
+1639619056 c:\users\nicole\desktop\tp_remiserialasvegas_facundozumsteind_nicoleligoule\classfecha.h
+
+1639619155 c:\users\nicole\desktop\tp_remiserialasvegas_facundozumsteind_nicoleligoule\classvehiculos.h
+	"prototipos.h"
+
+1639624134 c:\users\nicole\desktop\tp_remiserialasvegas_facundozumsteind_nicoleligoule\classtarifas.h
+	"prototipos.h"
+
+1639622301 c:\users\nicole\desktop\tp_remiserialasvegas_facundozumsteind_nicoleligoule\classseguros.h
+	"classfecha.h"
+	"prototipos.h"
+
+1639623266 c:\users\nicole\desktop\tp_remiserialasvegas_facundozumsteind_nicoleligoule\classviajes.h
+	"classfecha.h"
+	"prototipos.h"
+
+1639613652 c:\users\nicole\desktop\tp_remiserialasvegas_facundozumsteind_nicoleligoule\menuconductores.h
+	"prototipos.h"
+
+1639623270 c:\users\nicole\desktop\tp_remiserialasvegas_facundozumsteind_nicoleligoule\menuviajes.h
+	"prototipos.h"
+
+1639614560 c:\users\nicole\desktop\tp_remiserialasvegas_facundozumsteind_nicoleligoule\menuvehiculos.h
+	"prototipos.h"
+
+1639624289 c:\users\nicole\desktop\tp_remiserialasvegas_facundozumsteind_nicoleligoule\menutarifas.h
+	"prototipos.h"
+
+1639623427 c:\users\nicole\desktop\tp_remiserialasvegas_facundozumsteind_nicoleligoule\menuseguros.h
+	"prototipos.h"
+
+1639630845 source:c:\users\nicole\desktop\rlutilyfuncion\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	"rlutil.h"
+	"textos_menues.h"
+	"funciones.h"
+	"prototipos.h"
+	"classconductor.h"
+	"classvehiculos.h"
+	"classtarifas.h"
+	"classseguros.h"
+	"classviajes.h"
+	"classfecha.h"
+	"menuconductores.h"
+	"menuviajes.h"
+	"menuvehiculos.h"
+	"menutarifas.h"
+	"menuseguros.h"
+
+1571584339 c:\users\nicole\desktop\rlutilyfuncion\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1638852802 c:\users\nicole\desktop\rlutilyfuncion\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\funciones.h
+	"prototipos.h"
+
+1639624178 c:\users\nicole\desktop\rlutilyfuncion\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\prototipos.h
+
+1639619342 c:\users\nicole\desktop\rlutilyfuncion\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classconductor.h
+	"classfecha.h"
+	"prototipos.h"
+
+1639619058 c:\users\nicole\desktop\rlutilyfuncion\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classfecha.h
+
+1639619156 c:\users\nicole\desktop\rlutilyfuncion\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classvehiculos.h
+	"prototipos.h"
+
+1639624136 c:\users\nicole\desktop\rlutilyfuncion\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classtarifas.h
+	"prototipos.h"
+
+1639622302 c:\users\nicole\desktop\rlutilyfuncion\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classseguros.h
+	"classfecha.h"
+	"prototipos.h"
+
+1639623268 c:\users\nicole\desktop\rlutilyfuncion\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classviajes.h
+	"classfecha.h"
+	"prototipos.h"
+
+1639631238 c:\users\nicole\desktop\rlutilyfuncion\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuconductores.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639633274 c:\users\nicole\desktop\rlutilyfuncion\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuviajes.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639633068 c:\users\nicole\desktop\rlutilyfuncion\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuvehiculos.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639633277 c:\users\nicole\desktop\rlutilyfuncion\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menutarifas.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639632817 c:\users\nicole\desktop\rlutilyfuncion\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuseguros.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639636218 c:\users\nicole\desktop\rlutilyfuncion\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\textos_menues.h
+
+1639630845 source:c:\users\nicole\desktop\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	"rlutil.h"
+	"textos_menues.h"
+	"funciones.h"
+	"prototipos.h"
+	"classconductor.h"
+	"classvehiculos.h"
+	"classtarifas.h"
+	"classseguros.h"
+	"classviajes.h"
+	"classfecha.h"
+	"menuconductores.h"
+	"menuviajes.h"
+	"menuvehiculos.h"
+	"menutarifas.h"
+	"menuseguros.h"
+
+1571584339 c:\users\nicole\desktop\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1639659263 c:\users\nicole\desktop\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\textos_menues.h
+
+1638852802 c:\users\nicole\desktop\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\funciones.h
+	"prototipos.h"
+
+1639624178 c:\users\nicole\desktop\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\prototipos.h
+
+1639619342 c:\users\nicole\desktop\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classconductor.h
+	"classfecha.h"
+	"prototipos.h"
+
+1639619058 c:\users\nicole\desktop\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classfecha.h
+
+1639619156 c:\users\nicole\desktop\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classvehiculos.h
+	"prototipos.h"
+
+1639624136 c:\users\nicole\desktop\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classtarifas.h
+	"prototipos.h"
+
+1639658898 c:\users\nicole\desktop\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classseguros.h
+	"classfecha.h"
+	"prototipos.h"
+
+1639623268 c:\users\nicole\desktop\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classviajes.h
+	"classfecha.h"
+	"prototipos.h"
+
+1639631238 c:\users\nicole\desktop\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuconductores.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639633274 c:\users\nicole\desktop\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuviajes.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639633068 c:\users\nicole\desktop\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuvehiculos.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639633277 c:\users\nicole\desktop\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menutarifas.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639632817 c:\users\nicole\desktop\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuseguros.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639630846 source:c:\users\zumsteind\desktop\tp final laboratorio 2\16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	"rlutil.h"
+	"textos_menues.h"
+	"funciones.h"
+	"prototipos.h"
+	"classconductor.h"
+	"classvehiculos.h"
+	"classtarifas.h"
+	"classseguros.h"
+	"classviajes.h"
+	"classfecha.h"
+	"menuconductores.h"
+	"menuviajes.h"
+	"menuvehiculos.h"
+	"menutarifas.h"
+	"menuseguros.h"
+
+1571584340 c:\users\zumsteind\desktop\tp final laboratorio 2\16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1639661461 c:\users\zumsteind\desktop\tp final laboratorio 2\16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\textos_menues.h
+
+1638852802 c:\users\zumsteind\desktop\tp final laboratorio 2\16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\funciones.h
+	"prototipos.h"
+
+1639624178 c:\users\zumsteind\desktop\tp final laboratorio 2\16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\prototipos.h
+
+1639619342 c:\users\zumsteind\desktop\tp final laboratorio 2\16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classconductor.h
+	"classfecha.h"
+	"prototipos.h"
+
+1639619058 c:\users\zumsteind\desktop\tp final laboratorio 2\16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classfecha.h
+
+1639619156 c:\users\zumsteind\desktop\tp final laboratorio 2\16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classvehiculos.h
+	"prototipos.h"
+
+1639624136 c:\users\zumsteind\desktop\tp final laboratorio 2\16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classtarifas.h
+	"prototipos.h"
+
+1639662597 c:\users\zumsteind\desktop\tp final laboratorio 2\16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classseguros.h
+	"classfecha.h"
+	"prototipos.h"
+
+1639666712 c:\users\zumsteind\desktop\tp final laboratorio 2\16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classviajes.h
+	"classfecha.h"
+	"prototipos.h"
+
+1639631240 c:\users\zumsteind\desktop\tp final laboratorio 2\16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuconductores.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639633276 c:\users\zumsteind\desktop\tp final laboratorio 2\16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuviajes.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639633070 c:\users\zumsteind\desktop\tp final laboratorio 2\16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuvehiculos.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639633278 c:\users\zumsteind\desktop\tp final laboratorio 2\16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menutarifas.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639632818 c:\users\zumsteind\desktop\tp final laboratorio 2\16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuseguros.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639630846 source:c:\users\test\documents\utn 2021\tp final ultim16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	"rlutil.h"
+	"textos_menues.h"
+	"funciones.h"
+	"prototipos.h"
+	"classconductor.h"
+	"classvehiculos.h"
+	"classtarifas.h"
+	"classseguros.h"
+	"classviajes.h"
+	"classfecha.h"
+	"menuconductores.h"
+	"menuviajes.h"
+	"menuvehiculos.h"
+	"menutarifas.h"
+	"menuseguros.h"
+
+1644764639 c:\users\test\documents\utn 2021\tp final ultim16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1644766408 c:\users\test\documents\utn 2021\tp final ultim16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\textos_menues.h
+
+1638852802 c:\users\test\documents\utn 2021\tp final ultim16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\funciones.h
+	"prototipos.h"
+
+1639624178 c:\users\test\documents\utn 2021\tp final ultim16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\prototipos.h
+
+1639619342 c:\users\test\documents\utn 2021\tp final ultim16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classconductor.h
+	"classfecha.h"
+	"prototipos.h"
+
+1644767741 c:\users\test\documents\utn 2021\tp final ultim16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classfecha.h
+
+1639619156 c:\users\test\documents\utn 2021\tp final ultim16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classvehiculos.h
+	"prototipos.h"
+
+1639624136 c:\users\test\documents\utn 2021\tp final ultim16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classtarifas.h
+	"prototipos.h"
+
+1639662598 c:\users\test\documents\utn 2021\tp final ultim16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classseguros.h
+	"classfecha.h"
+	"prototipos.h"
+
+1644764100 c:\users\test\documents\utn 2021\tp final ultim16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classviajes.h
+	"classfecha.h"
+	"prototipos.h"
+
+1644766190 c:\users\test\documents\utn 2021\tp final ultim16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuconductores.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639633276 c:\users\test\documents\utn 2021\tp final ultim16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuviajes.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639633070 c:\users\test\documents\utn 2021\tp final ultim16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuvehiculos.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639633278 c:\users\test\documents\utn 2021\tp final ultim16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menutarifas.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639632818 c:\users\test\documents\utn 2021\tp final ultim16-12-2021\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuseguros.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639630846 source:c:\users\test\documents\utn 2021\tp final ultim14-02-2022\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	"rlutil.h"
+	"textos_menues.h"
+	"funciones.h"
+	"prototipos.h"
+	"classconductor.h"
+	"classvehiculos.h"
+	"classtarifas.h"
+	"classseguros.h"
+	"classviajes.h"
+	"classfecha.h"
+	"menuconductores.h"
+	"menuviajes.h"
+	"menuvehiculos.h"
+	"menutarifas.h"
+	"menuseguros.h"
+
+1644764639 c:\users\test\documents\utn 2021\tp final ultim14-02-2022\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1644766408 c:\users\test\documents\utn 2021\tp final ultim14-02-2022\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\textos_menues.h
+
+1638852802 c:\users\test\documents\utn 2021\tp final ultim14-02-2022\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\funciones.h
+	"prototipos.h"
+
+1639624178 c:\users\test\documents\utn 2021\tp final ultim14-02-2022\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\prototipos.h
+
+1639619342 c:\users\test\documents\utn 2021\tp final ultim14-02-2022\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classconductor.h
+	"classfecha.h"
+	"prototipos.h"
+
+1644767741 c:\users\test\documents\utn 2021\tp final ultim14-02-2022\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classfecha.h
+
+1644854342 c:\users\test\documents\utn 2021\tp final ultim14-02-2022\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classvehiculos.h
+	"prototipos.h"
+
+1639624136 c:\users\test\documents\utn 2021\tp final ultim14-02-2022\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classtarifas.h
+	"prototipos.h"
+
+1639662598 c:\users\test\documents\utn 2021\tp final ultim14-02-2022\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classseguros.h
+	"classfecha.h"
+	"prototipos.h"
+
+1644764100 c:\users\test\documents\utn 2021\tp final ultim14-02-2022\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\classviajes.h
+	"classfecha.h"
+	"prototipos.h"
+
+1644766190 c:\users\test\documents\utn 2021\tp final ultim14-02-2022\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuconductores.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639633276 c:\users\test\documents\utn 2021\tp final ultim14-02-2022\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuviajes.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639633070 c:\users\test\documents\utn 2021\tp final ultim14-02-2022\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuvehiculos.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1644854032 c:\users\test\documents\utn 2021\tp final ultim14-02-2022\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menutarifas.h
+	"prototipos.h"
+	"textos_menues.h"
+
+1639632818 c:\users\test\documents\utn 2021\tp final ultim14-02-2022\tp_facundozumsteind_nicoleligoule_lasvegas_ (2)\tp_facundozumsteind_nicoleligoule_lasvegas_\rlutilfuncion_remiserialasvegas_facundozumsteind_nicoleligoule - copia\menuseguros.h
+	"prototipos.h"
+	"textos_menues.h"
+
